@@ -1,0 +1,24 @@
+div.box2{
+    margin:5px;
+    margin-left: 30px;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    display:inline-flex;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+
+}
+div.card{
+    margin: 10px;
+    width: 250px;
+    align-items:flex;
+    text-align: center;
+}
+div.card-title{
+    font-size: 20px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
